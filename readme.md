@@ -1,6 +1,6 @@
 # Event Manager Company: Software QA Analyst/Developer Onboarding Assignment
 
-## Closed Issues and Resolutions (COULDN'T FIND THE ISSUES; BUT I HAVE COMMITTED THE CHANGES TO GITHUB)
+## Closed Issues and Resolutions 
 1. Resolved JWT Token Generation and Test Failure
 Updated create_access_token to accept keyword arguments and corrected test fixtures to properly pass payload. Fixed TypeError in API tests.
 2.	Mocked Email Service for Test Isolation
